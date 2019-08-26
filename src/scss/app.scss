@@ -1,1 +1,6 @@
-@import "~bootstrap/scss/bootstrap";
+//required
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+//optional
+@import "~bootstrap/scss/buttons";
